@@ -20,8 +20,8 @@
 ### 1.깃허브에 로그인
 
 ### 2.fork 하기
-+ https://github.com/pnumin/tm
-![image](https://user-images.githubusercontent.com/21351425/118789114-68beae00-b8cf-11eb-9b91-4efb338ba7ca.png)
++ https://github.com/pnumin/tm 
+
 
 ### 3.fork해온 repository의 index.html 수정
 + 97라인 url 주소를 자신의 link주소로 변경
