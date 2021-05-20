@@ -1,5 +1,5 @@
 05.20 
-인공지능 모델 만들기  :  Teachable Machine
+# 인공지능 모델 만들기  :  Teachable Machine
 
 학습모으기
 클래스 만들기 : 라벨
