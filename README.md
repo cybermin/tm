@@ -1,13 +1,3 @@
-05.20 
-# 인공지능 모델 만들기  :  Teachable Machine
-
-+ 학습모으기
-+ 클래스 만들기 : 라벨
-+ 학습시키기
-테스트
-내보내기
-
-
 # Teachable Machine Image Project Git Hosting
 
 ## Teachable Machine 이미지 모델 만들기
