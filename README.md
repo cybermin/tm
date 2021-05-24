@@ -2,15 +2,14 @@
 ---
 ## **주제 : BTS 닮은 얼굴 찾기**
 ---
-## Teachable Machine 이미지 모델 만들기
-
 ### 1. 이미지 모으기 
-+ 학습에 필요한 이미지를 모음 
-+ 크롬 웹 스토어 : download all image 활용 
++ 학습에 필요한 이미지를 모음 : 키워드
++ download all image 활용 : 수집 이미지 개수
 
 ### 2. 이미지 프로젝트 
-+ 분류될 label에 해당하는 class명 변경
-+ class별로 이미지 업로드
+> [Teachable Machine](https://teachablemachine.withgoogle.com/)
+>> 이미지 프로젝트 선택
+>>> 분류될 label에 해당하는 class명 : 클래스1, 클래스2 
 
 ### 3. 학습 후 테스트
 
