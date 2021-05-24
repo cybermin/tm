@@ -2,7 +2,7 @@
 
 |연번|성명|깃허브주소|
 |---|---|---| 
-|1|곽민우|https://github.com/kwag0967/tm |
+|1|곽민우|https://github.com/kwag0967/tm/|
 |2|김성민|https://github.com/kkachi1/tm/blob/main/README.md |
 |3|김유진|https://github.com/junwoobaboo/tm/blob/main/README.md|
 |4|김준우|https://github.com/ki1107/tm/blob/main/README.md|
