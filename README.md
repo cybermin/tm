@@ -11,8 +11,10 @@
 
 ### [작성방법]:heart:
 #### 1. 이미지 모으기 
-+ 학습에 필요한 이미지를 모음 : 키워드
-+ download all image 활용 : 수집 이미지 개수
+|작업내용|비고|
+|--|--|
+|학습에 필요한 이미지|키워드|
+|download all image 활용 | 수집 이미지 개수|
 
 #### 2. 이미지 프로젝트 
 > [Teachable Machine](https://teachablemachine.withgoogle.com/)
