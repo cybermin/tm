@@ -20,8 +20,6 @@
 #### 2. 이미지 프로젝트 
 > [Teachable Machine](https://teachablemachine.withgoogle.com/)
 >> 이미지 프로젝트 선택 : <https://teachablemachine.withgoogle.com/train>
-
-![이미지프로젝트](https://teachablemachine.withgoogle.com/assets/img/project-samples/image/sample1.jpg)
 >>> 분류될 label에 해당하는 class명 : 클래스1, 클래스2 
 
 #### 3. 학습 후 테스트
@@ -31,7 +29,7 @@
 + link 주소 복사하기
 
 #### 5.깃허브에 로그인
-
+![GitHub](https://media.vlpt.us/images/harriet99/post/56204a58-bc0a-485d-9fbd-8a164929235d/asasf.png)
 #### 6.fork 하기(생략)
 + https://github.com/pnumin/tm 
 
