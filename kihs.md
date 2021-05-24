@@ -2,8 +2,8 @@
 
 |연번|성명|깃허브주소|
 |---|---|---| 
-|1|곽민우|https://github.com/kwag0967/tm/ |
-|2|김성민|https://github.com/kkachi1/tm/ |
+|1|곽민우|https://github.com/kwag0967/tm/|
+|2|김성민|https://github.com/kkachi1/tm/|
 |3|김유진|https://github.com/junwoobaboo/tm/|
 |4|김준우|https://github.com/ki1107/tm/|
 |5|김한결|https://github.com/rlagksruf1205/tm/|
@@ -24,6 +24,6 @@
 |20|정연우|https://github.com/wjdasjf/tm/|
 |21|최민준|https://github.com/lecacis/tm/|
 |22|석채민|https://github.com/Seokchaemin/tm/|
-|23|윤소정|https://github.com/dbsthwjd/tm/ |
-|24|공수인|https://github.com/soo05/tm/ |
+|23|윤소정|https://github.com/dbsthwjd/tm/|
+|24|공수인|https://github.com/soo05/tm/|
 |25|김주원|https://github.com/zw0630/tm/|
