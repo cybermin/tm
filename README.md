@@ -1,6 +1,8 @@
-# Teachable Machine Image Project 
+Teachable Machine Image Project 
+================================
 ---
 ## **주제 : BTS 닮은 얼굴 찾기**
+---------------------------------
 ```
 주제선정이유를 작성해 주세요.
 ```
