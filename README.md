@@ -29,7 +29,7 @@
 + link 주소 복사하기
 
 #### 5.깃허브에 로그인
-<img width="30px" height="30px">![GitHub](https://media.vlpt.us/images/harriet99/post/56204a58-bc0a-485d-9fbd-8a164929235d/asasf.png)</img>
+![GitHub](https://avatars.githubusercontent.com/u/9919?s=200&v=4) 
 #### 6.fork 하기(생략)
 + https://github.com/pnumin/tm 
 
