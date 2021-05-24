@@ -20,6 +20,7 @@
 #### 2. 이미지 프로젝트 
 > [Teachable Machine](https://teachablemachine.withgoogle.com/)
 >> 이미지 프로젝트 선택 : <https://teachablemachine.withgoogle.com/train>
+![이미지프로젝트](https://teachablemachine.withgoogle.com/assets/img/project-samples/image/sample1.jpg)
 >>> 분류될 label에 해당하는 class명 : 클래스1, 클래스2 
 
 #### 3. 학습 후 테스트
