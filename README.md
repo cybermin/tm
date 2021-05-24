@@ -1,7 +1,7 @@
 # Teachable Machine Image Project 
-```
-주제 : BTS 닮은 얼굴 찾기
-```
+---
+## *주제 : BTS 닮은 얼굴 찾기*
+---
 ## Teachable Machine 이미지 모델 만들기
 
 ### 1. 이미지 모으기 
