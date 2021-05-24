@@ -1,31 +1,30 @@
-# Teachable Machine Image Project Git Hosting
+# 경일고등학교 
 
-## Teachable Machine 이미지 모델 만들기
-
-### 1. 이미지 모으기 
-+ 학습에 필요한 이미지를 모음 
-+ 크롬 웹 스토어 : download all image 활용 
-
-### 2. 이미지 프로젝트 
-+ 분류될 label에 해당하는 class명 변경
-+ class별로 이미지 업로드
-
-### 3. 학습 후 테스트
-
-### 4. 모델 내보내기
-+ Tensorflow.js -> Upload(shareable link) 생성하여 확인해 보기
-+ link 주소 복사하기
-
-## Github에서 서비스하기
-### 1.깃허브에 로그인
-
-### 2.fork 하기
-+ https://github.com/pnumin/tm 
-
-
-### 3.fork해온 repository의 index.html 수정
-+ 97라인 url 주소를 자신의 link주소로 변경
-
-### 4.fork해온 repository 설정 변경
-+ page 항목 수정 
-
+|연번|성명|깃허브주소|
+|---|---|---| 
+|내용 1|내용 2|내용 3| 
+|1|곽민우|https://github.com/kwag0967/tm/blob/main/README.md |
+|2|김성민|https://github.com/kkachi1/tm/blob/main/README.md |
+|3|김유진|https://github.com/junwoobaboo/tm/blob/main/README.md|
+|4|김준우|https://github.com/ki1107/tm/blob/main/README.md|
+|5|김한결|https://github.com/rlagksruf1205/tm/blob/main/README.md|
+|6|김홍일|https://github.com/hongil바부/tm/blob/main/RADME.md|
+|7|손범진|https://github.com/mooncastleyt/tm/blob/main/README.md |
+|8|심주환|https://github.com/joohwan7777/tm/edit/main/README.md|
+|9|조현서|https://github.com/jhns1226/tm/blob/main/README.md|
+|10|강재형|https://github.com/purplemonkey0511/tm/blob/main/README.md|
+|11|권용석|https://github.com/kwonys28/tm/edit/main/README.md|
+|12|김시완|https://github.com/siband/tm/blob/main/README.|
+|13|차준혁|https://github.com/junhyeokcha/tm/blob/main/README.md|
+|14|최한울|https://github.com/hanul24/tm/blob/main/README.md|
+|15|한재영|https://github.com/poki0131/tm/edit/main/README.md|
+|16|김태연|https://github.com/uhrx07/tm/blob/main/README.md|
+|17|박준한|https://github.com/bulbulgogi/tm|
+|18|박태언|https://github.com/teaeon6974/tm/blob/main/README.md|
+|19|정동주|https://github.com/joey1035/tm/blob/main/README.md|
+|20|정연우|https://github.com/wjdasjf/tm/blob/main/README.md|
+|21|최민준|https://github.com/lecacis/tm/blob/main/README.md|
+|22|석채민|https://github.com/Seokchaemin/tm/blob/main/README.md|
+|23|윤소정|https://github.com/dbsthwjd/tm/blob/main/README.md |
+|24|공수인|https://github.com/soo05/tm/blob/main/README.md |
+|25|김주원|https://github.com/zw0630/tm/blob/main/README.md| 
