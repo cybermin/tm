@@ -5,7 +5,7 @@
 |1|곽민우|https://github.com/kwag0967/tm/|
 |2|김성민|https://github.com/kkachi1/tm/|
 |3|김유진|https://github.com/junwoobaboo/tm/|
-|4|김준우|https://github.com/ki1107/tm/|
+|4|김준우☆|https://github.com/ki1107/tm/|
 |5|김한결★|https://github.com/rlagksruf1205/tm/|
 |6|김홍일|https://github.com/hongil바부/tm/|
 |7|손범진|https://github.com/mooncastleyt/tm/ |
