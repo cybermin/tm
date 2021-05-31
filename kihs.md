@@ -19,7 +19,7 @@
 |15|한재영★|https://github.com/poki0131/tm/|
 |16|김태연★|https://github.com/uhrx07/tm/|
 |17|박준한☆|https://github.com/bulbulgogi/tm/|
-|18|박태언◁|https://github.com/teaeon6974/tm/|
+|18|박태언◁|https://github.com/jhns1226/tm/|
 |19|정동주★|https://github.com/joey1035/tm/|
 |20|정연우★|https://github.com/wjdasjf/tm/|
 |21|최민준☆|https://github.com/lecacis/tm/|
